@@ -1,0 +1,543 @@
+﻿question,answer
+"According to whether the guidance system interacts with the outside world during operation, it can be divided into (). A. autonomous guidance B. homing guidance C. non-autonomous guidance",AC
+"In non-autonomous guidance, if guidance information is obtained from the space-moving body, it can be divided into which two types ().A. remote control guidance B. homing guidance C. map-matching guidance",AB
+"According to the location of the energy source, seeker guidance systems can be divided into which categories (). A. semi-main type B. main type C. be type",ABC
+The missile guidance system mainly includes(). A. propulsion system B. guidance subsystem C. control system D. damage system,BC
+"According to whether the guidance system interacts with the outside world during operation, it can be divided into (). A. autonomous guidance B. homing guidance C. non-autonomous guidance",AC
+Autonomous guidance can mainly be divided into which two categories? () A. remote control guidance B. program guidance C. inertial guidance,BC
+"In non-autonomous guidance, if guidance information is obtained from the space-moving body, it can be divided into which two types? () A. remote control guidance B. homing guidance C. map-matching guidance",AB
+"According to the location of the energy source, seeker guidance systems can be divided into which categories? () A. main type B. semi-main type C. be type",ABC
+The following coordinate systems are moving coordinate systems (). A. ground coordinate system B. body coordinate system C. trajectory coordinate system D. velocity coordinate system,BCD
+Factors affecting the thrust of a solid rocket motor include (). A. gas mass flow rate B. relativeto bodyofexhaust velocity C. cross-sectional area at the engine nozzle D. gas flow pressure at the engine nozzle,ABCD
+"For missiles flying within the atmosphere using traditional aerodynamic control, the forces acting on the missile include (). A. engine thrust B. powerC gravityD powerstraight lateral force",ABC
+"Given the aerodynamic layout and geometric parameters, factors affecting pitching moment include (). A. Mach number B. flighthigh degree C. angle of attack D. pitchcontrol surface angle",ABCD
+"The following statements about static stability are correct(). A. center of masspositionin aerodynamic centerof front,missileisstatic stabilityof B. center of mass to andaerodynamic center when,missileisneutral static stabilityof C. center of mass to aerodynamic centerof rear,missileisstatic instabilityof D. static stability margincan touse aerodynamic centerandcenter of pressureofwithout quantity of value characterizes",ABC
+"The following statements about hinge moment are correct () (2).A. hinge momentisaerodynamic forcerelativeto control surfacerotation axisofmoment B. hinge momentlarge small affectactuatorrequiredofpower C. hinge momentlarge small andcontrol surfaceoftypesandshape without related to D. hinge momentlarge small andMach number, angle, control surface anglerelated to",ABD
+The three degrees of freedom of the instantaneous attitude of a rigid body are (). A. pitch angleB yawangleC roll angleD sideslip angle,ABC
+"When establishing a missile motion model using Newton's second law and the angular momentum theorem, the commonly used research methods include().A. introducefrozen-body principle B. ignoreelastic deformation C. ignoreaeroelasticity D. long- and short-period separation method",ABC
+The angular relationship equations can be established by using (). A. direction cosine method B. quaternion method C. spherical trigonometry method D. coordinate transformation method,ABCD
+"For aerodynamically controlled missiles, the actuation mechanisms include (). A. elevator B. rudder C. aileron D. thrust-regulation device",ABCD
+"The following statements about longitudinal motion and lateral motion are correct ().A. longitudinal motionandlateral motionismutually influence each otherof B. longitudinal motioncan to existin C. in lateral motionin,thathavelongitudinal motionparameters as zero D. lateral motionofsolutionneed longitudinal motionparameters",ABD
+The assumptions for missile center-of-mass motion include (). A. missileabout bodyaxisofrotationiswithout B. control systemidealoperation C. ignore to method towardforceofaffect D. frozen-body principle,ABC
+The following statements about overload are correct ().A. overloadisfunctionsin missileupper ofcontrol forceandgravityofthan value B. overloadisvector C. overloadofdirectionandcontrol forceofsame direction D. overloadoflarge small relativeto gravityof,ABCD
+"Given the aerodynamic layout and geometric parameters, factors affecting yawing moment include (). A. Mach number B. flighthigh degree C. sideslip angle D. yaw rudder angle",ABCD
+The three degrees of freedom of the instantaneous attitude of a rigid body are(). A. pitch angle B. yawangle C. roll angle D. sideslip angle,ABC
+Methods to improve the static stability of a missile include ().A. changewingoutside shapeB changewingareaC adjustcenter of masspositionD controlmethods,ABC
+The following statements about the instantaneous equilibrium assumption are correct (). A. false assumemoment of inertiaetc. in zero B. ignoreactuation mechanism rear missileabout bodyaxis oftransient process C. false assumecontrol systemidealoperation D. ignorecontrol systemoperationoftransient processandactuation mechanism oftransient process,ABCD
+The following statements about overload are correct ().A. overloadisfunctionsin missileupper ofcontrol forceandgravityofthan value B. overloadisscalar C. overloadofdirectionandcontrol forceofsame direction D. overloadoflarge small relativeto massof,AC
+The following are characteristics of the pursuit guidance method () A. about rear attack B. curved trajectory C. shoulduse widely,AB
+The following can be regarded as special forms of proportional navigation () A. pursuit method B. parallel approach method C. three-point method,AB
+The terminal-point overload in proportional navigation is related to the following ()factorsrelevant. A. target maneuver B. missilevelocity C. targetvelocity D. target maneuver,ABCD
+"When intercepting a target using proportional navigation, the proportional coefficient K should consider the following () (2)etc. factors.A. line-of-sight angular-rate convergence limit B. available overload C. guidance systemrequirements",ABC
+"When using the three-point guidance method, considering terminal-point overload, the ballistic target is easily affected by the following () factorsofaffect.A. targetvelocitychange B. target maneuver C. missilevelocity",ABC
+The trajectory characteristics of the three-point method are (). A. trajectorythan relativelycurved B. dynamic error to C. trajectorylower,ABC
+The following are characteristics of the pursuit guidance method (). A. about rear attack B. curved trajectory C. shoulduse widely,AB
+The following can be regarded as special forms of proportional navigation (). A. pursuit method B. three-point method C. parallel approach method,AC
+The terminal-point overload in proportional navigation is related to ()etc. factorsrelevant. A. target maneuver B. missilevelocity C. targetvelocity D. target maneuver,ABCD
+"When using the three-point guidance method, considering terminal-point overload, the ballistic target is easily affected by the following () (2) factorsofaffect.A. targetvelocitychange B. target maneuver C. missilevelocity",ABC
+The following are tasks of radio command guidance (). A. searching for and selecting targets B. observing and tracking targets C. controlling launch and observing the missile D. guiding the missile toward the target E. sending a launch command,ABCD
+Radio command guidance systems can be divided into () form. A. radar-tracking command guidance system B. TVM command guidance system C. television-tracking command guidance system D. infrared homing guidance system,ABC
+The following are tasks of radio command guidance (). A. searching for and selecting targets B. observing and tracking targets C. controlling launch and observing the missile D. guiding the missile toward the target E. sending a launch command,ABCD
+The following statements about infrared rays are correct ().A. infrared raysofwavelengththan visible light B. infrared raysin large in the atmosphereoftransmission attenuationthan visible lightlarge C. infrared rayshavehave ofthermal effect D. infrared rayscan totopropagate in a straight line at the speed of light,ACD
+The infrared radiation of a conventional jet aircraft mainly comes from ().A. tail nozzleexhaustedofhigh-temperature gas B. micro-nozzle of the engineofheated section C. aircraft fuselageskin D. airflow over the body surface,ABC
+The position of an infrared image point on the image plane is described by()describe. A. slant range B. elevation angle C. azimuth angle D. displacement amount,CD
+"There are many types of modulation disks; according to modulation mode, they can be divided into (). A. amplitude-modulation type B. frequency-modulation type C. phase-modulation type D. pulse-width-modulation type",ABCD
+"For a full-spoke modulation disk, when the image point area remains unchanged and its position moves toward the center of the disk, the following will occur ().A. modulation signalpeak valuereducesmall B. modulation signalvalley valueincreaselarge C. modulation depthreducesmall D. displacement amountincreaselarge",ABC
+The following statements about infrared rays are correct ().A. infrared raysofwavelengththan visible light B. infrared raysin large in the atmosphereoftransmission attenuationthan visible lightsmall C. infrared rayshavehave ofthermal effect D. infrared rayscan totopropagate in a straight line at the speed of light,BCD
+The infrared radiation of a conventional jet aircraft mainly comes from (). A. tail nozzleexhaustedofhigh-temperature gas B. micro-nozzle of the engineofheated section C. aircraft fuselageskin D. airflow over the body surface,ABC
+The position of an infrared image point on the image plane is described by()describe. A. slant range B. elevation angle C. azimuth angle D. displacement amount,CD
+"There are many types of modulation disks; according to modulation mode, they can be divided into ().A. amplitude-modulation typeB frequency-modulation typeC phase-modulation typeD pulse-width-modulation type",ABCD
+"According to development history and working principle, gyroscopes can be divided into which stages.() A. mechanical frame gyroscope B. optical gyroscope C. MEMS gyroscope D. mechanical gyroscope",ABC
+A. platform inertial navigation system mainly consists of()consist of. A. physical platform B. accelerometer C. gyroscope D. computing system,ABCD
+Platform inertial navigation systems are divided into analytic inertial navigation systems and local-level inertial navigation systems; the local-level inertial navigation systems can further be divided into () A. north-slaved inertial navigation system B. wander-azimuth inertial navigation system C. free-azimuth inertial navigation system D. random-azimuth inertial navigation system,ABC
+"The main characteristics of a platform inertial navigation system include () A. easy to install, and can isolateexternal environmentto components inside the platformofaffect B. the measured navigation informationthenisrelativeto in navigation coordinate axesofcomponent, the computational load is relatively small C. maintainability is improved D. volume, mass, cost is relatively low",AB
+The navigation information used to describe the carrier attitude includes () A. heading angle B. elevation angle C. roll angle D. pitch angle,ACD
+"According to development history and working principle, gyroscopes can be divided into ()stages.A. mechanical frame gyroscope B. optical gyroscope C. MEMS gyroscope D. mechanical gyroscope",ABC
+Platform inertial navigation systems are divided into analytic inertial navigation systems and local-level inertial navigation systems; the local-level inertial navigation systems can further be divided into (). A. north-slaved inertial navigation system B. wander-azimuth inertial navigation system C. free-azimuth inertial navigation system D. random-azimuth inertial navigation system,ABC
+"The main characteristics of a platform inertial navigation system include ().A. easy to install,and can isolateexternal environmentto components inside the platformofaffect B. the measured navigation informationthenisrelativeto in navigation coordinate axesofcomponent,the computational load is relatively small C. maintainability is improved D. volume, mass, cost is relatively low",AB
+The angles describing carrier attitude are(). A. heading angle B. elevation angle C. roll angle D. pitch angle,ACD
+body coordinate systemandvelocity of betweenof bythe followingEuler anglesdetermine A. roll angle B. angle of attack C. sideslip angle D. bank angle,BC
+"bodyliftetc. in fuselage, wing, tailandaerodynamic control surfaceeach selfofliftof anddraginclude A. friction drag B. pressure drag C. induced drag",ABC
+"fuselagein flightin the process, must bear A. axial force B. shear force C. bending moment D. torque",ABCD
+"missile small quantityblunting, can to A. reduce stress concentration at the nose tip B. reducesmall nose tipaerodynamic heatingC reducesmall drag D. increase lift",AB
+fuselageofnormal-force coefficientandthe followingfactorsrelated to A. angle of attack B. sideslip angle C. cylindrical partoffineness ratio D. Mach number,AC
+"adoptuse STTmaneuver, need to as A. angle of attackas zero B. bodyaxisymmetric C. roll angleas zero D. sideslip angleas zero",BC
+"adoptuse B. TTmaneuver, need to is A. angle of attackas zero B. bodyplane-symmetric C. make use air-breathing jet engine D. sideslip angleas zero E. bank angleas zero",BCD
+aerodynamic six-component data table quantitycharacterizesbodyaerodynamicoutside shapedesignand of A. aerodynamic efficiency B. control efficiency C. static stability D. control coupling characteristics E. bodynatural frequency F. pitching moment angle of attackchangeoflinearity,ABCDEF
+aerodynamic six-component data tableis A. overall design department geometric schemeofbasis B. trajectory calculation and simulationofbasis C. attitude control designofbasis D. engine thrustcalculationofbasis,ABC
+bodyof include A. aerodynamic coupling B. control coupling C. inertial cross-coupling D. Euler kinematic coupling,ABCD
+"selectrelative overall parameterscarry outdesignofgood have A. flight can andrelativeto quantityrelated to, idealvelocityandpropellant mass ratiorelated to B. relativeto quantityas, relativelyallow straight C. relativeto quantity between method, parametersdesignaccuracyhigh D. not need",AB
+missileschemedesigninbasicofrelative overall parametershave A. propellant mass ratio B. launch thrust-to-weight ratio C. section loading coefficientorwing loading coefficient D. lift-to-drag ratio,ABC
+cruise missileengineof forceselectandthe followingfactorsrelated to A. cruise speed B. cruise altitude C. shape drag coefficientandreference area D. detector accuracy,ABC
+The missile guidance system mainly includes(). A. guidance subsystem B. control system C. damage system,AB
+aerodynamic forcealong velocity coordinate systemcan to as (). A. lift B. axial force C. lateral force D. drag,ACD
+Methods to improve the static stability of a missile include(). A. changewingoutside shape B. changewingarea C. adjustcenter of massposition D. controlmethods,ABC
+"to in in flight within the atmosphereofmissile,motion modeoftheory is(). A. Newton's first law B. angular momentum theorem C. Newton's second law D. law of conservation of energy",BC
+characterizeswithout missileflightofmotion include(). A. 6itemsdynamic equation B. 6itemskinematic equation C. 1itemsmass-variation equation D. 3itemsangle relationship equation,ABCD
+"the followingrelated toin when false assume,positive correctofhave(). A. false assumemoment of inertiaetc. in zero B. ignoreactuation mechanism rear missileabout bodyaxis oftransient process C. false assumecontrol systemidealoperation D. ignorecontrol systemoperationoftransient processandactuation mechanism oftransient process",ABCD
+The terminal-point overload in proportional navigation is related to()etc. factorsrelevant. A. target maneuver B. missilevelocity C. targetvelocity D. target maneuver,ABCD
+"According to development history and working principle, gyroscopes can be divided intowhichstages.() A. mechanical frame gyroscope B. optical gyroscope C. MEMS gyroscope D. mechanical gyroscope",ABC
+benefituse gyroscopeof()can to realizeto ofmeasure. A. nutation B. rigidity in space C. apparent precession D. precession,BD
+A. platform inertial navigation system mainly consists of()consist of. A. physical platform B. accelerometer C. gyroscope D. computing system,ABCD
+"The main characteristics of a platform inertial navigation system include(). A. easy to install,and can isolateexternal environmentto components inside the platformofaffect B. the measured navigation informationthenisrelativeto in navigation coordinate axesofcomponent,the computational load is relatively small C. maintainability is improved D. volume, mass, cost is relatively low",AB
+The angles describing carrier attitude are(). A. heading angle B. elevation angle C. roll angle D. pitch angle,ACD
+Which of the following parameters can be measured by the measuring device of a missile guidance system?() A. missileofposition B. missileofvelocity C. targetofposition D. targetofvelocity,ABCD
+"According to launch point and target position, missiles can be divided into() A. surface-to-surface missile B. surface-to-air missile C. air-to-air missile D. air-to-surface missile",ABCD
+Types of missile propulsion devices include() A. rocket engine B. air-breathing jet engine C. combined engine D. solar engine,ABC
+Types of missile warhead fillings include() A. B. missile C. D.,ABCD
+Missile guidance modes include() A. selfmain guidance B. homing guidance C. remote control guidance D. composite guidance,ABCD
+Factors affecting missile range include() A. propulsion device performance B. missile quantity C. flighthigh degree D.,ABCD
+Functions of the missile body include() A. installeach system B. load C. ensureflightstability D. providelift,ABC
+Missile launch modes include() A. land-based launch B. sea-based launch C. air-based launch D. space-based launch,ABCD
+"According to flight trajectory, missiles can be divided into() A. ballistic missile B. cruise missile C. hypersonic missile D. glide missile",AB
+The missile control system includes() A. attitude control system B. trajectory control system C. launch control system D. safety self-destruction system,ABC
+A. missile consists of multiple subsystems; the following belong to missile subsystems. A. warhead system B. electrical and control system C. propulsion system D. structural system,ABCD
+The mechanisms in the vehicle body structure generally mainly include the following categories. A. deployment mechanism B. actuation mechanism C. separation mechanism D. folding mechanism,BCD
+The following items belong to the preliminary prototype stage of missile structural system development A. structural layout design B. structural strength check C. qualification test D. flight test,ABC
+"Among the following external forces, the following are mass forces A. aerodynamic force B. gravity C. inertial force D. force",BC
+"When determining a structural analysis model, the basic principles that need to be satisfied include A. shouldpositive correctanti-reflect the structureofactual characteristics B. shouldandanalysis objectivebe compatible with C. shouldandcalculation toolbe compatible with D. shouldandcalculation methodbe compatible with",ABCD
+Dynamic characteristic analysis of missile structures is carried out to obtain A. natural frequency B. structural damping C. mode shape D. dynamic stress,AC
+Functions of the wing include A. producelift B. produce force C. producecontrol forceandmoment D. make missilehavehave need toofmaneuverabilityandstability,ACD
+The following wings belong to frame-skin wings A. multi-spar wing B. internally braced wing C. monoblock wing D. solid-wall-panel wing,ABC
+"When the load of a single-spar wing is transferred to the fuselage joint, it is mainly converted into A. axial force B. shear force C. bending moment D. torque",BC
+The following belong to wing structural design requirements A. stiffness requirement B. geometric accuracy requirement C. volume requirement D. aerodynamic heating requirement,ABD
+The skin of a stringer-type fuselage structure bears the following loads A. axial force B. shear force C. bending moment D. torque,ABCD
+"As a connection method between compartments, sleeve connection has the following main advantages A. simple process B. simple structure C. lighter weight D. deviation easy to control",BCD
+"As a connection method between compartments, axial flange connection has the following main advantages A. easy to drill B. small bending deviation C. lighter weight D. easy to improve stiffness",ABD
+"Among the mechanical property parameters of a material, the quantity representing material strength is A. elastic modulus B. Poisson ratio C. yield limit D. ultimate strength",CD
+Aerodynamic force is the reaction force of airflow on the missile.,T
+"Aerodynamic force is a complex distributed force system related to many factors such as missile speed, the relative orientation between airflow and the body, and altitude.",T
+The center of pressure is the point at which the distributed force system acting on the missile is equivalent to a resultant force according to the force-system simplification principle.,T
+The center of pressure is not the same as the aerodynamic center; the aerodynamic center is the point of action of the resultant lift caused only by a nonzero angle of attack.,T
+"Aerodynamic coefficients measured in the wind tunnel are obtained in the body coordinate system. To obtain aerodynamic forces in the velocity coordinate system, the corresponding coordinate transformation matrix is required.",T
+"With the aerodynamic layout and geometric dimensions given, the lift of the body depends only on angle of attack and elevator deflection.",F
+Lateral stability refers to the ability of the body to automatically return to equilibrium after a temporary external disturbance moment causes it to tilt about the longitudinal axis oX1.,T
+Civil aircraft have dihedral angle and sweep angle that raise the wings in order to enhance lateral stability.,T
+Whether the body is statically stable depends only on its geometric layout and mass distribution!,T
+"If the body is statically stable, the partial derivative of pitching moment coefficient with respect to angle of attack is greater than zero!",F
+"As long as the body is statically stable, it can certainly provide a restoring moment!",T
+All uncontrolled flight vehicles such as rockets and reentry warheads must be statically stable!,T
+"The main factors affecting the yawing moment of the body are sideslip angle, rudder deflection, and their partial derivatives",T
+Directional static stability also depends only on geometric layout!,T
+Hinge moment is the moment of aerodynamic force on the control surface about the hinge axis and is unrelated to the output torque of the actuator!,T
+The output torque of the actuator should be at least greater than the hinge moment; when selecting an actuator it is generally taken as twice the hinge moment.,T
+"Inertial navigation is a basic autonomous navigation mode. It depends on the accuracy of inertial devices such as accelerometers measuring the acceleration of the body center of mass and attitude gyros measuring attitude or angular rate, and it is independent of the outside world!",T
+Another major error source of strapdown navigation is the initial alignment error.,T
+"Satellite navigation and positioning can eliminate accumulated errors caused by gyro drift in inertial navigation, so an inertial navigation device is not necessary.",F
+"If the output torque of the actuator is larger, the bandwidth becomes narrower and the response becomes slower.",T
+"If the wing is designed such that its leading edge is behind the Mach line, the Mach angle is smaller than the leading-edge angle; this is called a subsonic leading edge, and wave drag does not exist.",T
+"For surface-to-air missiles, wing area depends on the required maneuver overload; for subsonic cruise missiles, wing area depends on the required lift-to-drag ratio.",T
+"The determination of wing size is based on the designed wing area and preselected geometric parameters such as aspect ratio, taper ratio, and sweep angle.",T
+"After the geometric layout is selected, the design of aerodynamic control surfaces depends on the required control efficiency, namely the control-to-stability ratio, and the hinge moment of the control surface.",T
+"Generally, subsonic flight vehicles have wings with larger aspect ratio, while supersonic flight vehicles have smaller aspect ratio, less than 2",T
+The maximum lift-to-drag ratio of a missile is proportional to the square root of lift-curve slope and inversely proportional to the square root of the zero-lift drag coefficient.,T
+Wing sweep can effectively reduce wave drag during supersonic flight.,T
+"The total normal-force coefficient of the body is approximately the sum of the normal-force coefficients of the fuselage, wing, and tail.",T
+"The static stability margin of a missile is related not only to geometric design but also to mass distribution, and it also changes with flight time.",T
+"In missile design, the tail area is usually designed last to satisfy the static stability margin requirement.",T
+The static stability margins of the X-shaped layout and the + shaped layout are equal.,F
+"Although missile body dynamics are nonlinear, engineering tests show that piecewise linearization can be used with classical linearization theory to study and design missile control stability.",T
+"The lower the launch speed of an uncontrolled body, the more severe the adverse effect of gravity on flight stability.",T
+An uncontrolled body must be statically stable in order to be dynamically stable.,T
+"Because a sounding rocket is uncontrolled, its geometric design must not only be statically stable, but must also provide sufficient restoring moment to resist disturbance moments such as wind shear.",T
+The stability of disturbed body motion can be considered using only the third-order short-period perturbation motion.,T
+"The control-to-stability ratio is related to the operating point (for example, the current trim angle of attack and control-surface deflection), and also to the slopes of the moment coefficients at that operating point (such as the partial derivative of pitching-moment coefficient with respect to angle of attack and the partial derivative of control moment coefficient with respect to control-surface deflection).",T
+"The control-to-stability ratio is the ratio of the increment of trim angle of attack to the increment of control-surface deflection, and it must be calculated according to the aerodynamic-coefficient table and the incremental moment-coefficient balance equation.",T
+Linearity analysis means giving the function curve between a certain moment and the corresponding independent variable at a given operating point and analyzing the degree of linear proportionality.,T
+"Because the lateral size is small, missiles usually do not have dedicated ailerons in order to save space and reduce weight.",T
+The deflection of each control surface produces corresponding control moments about the three axes of the body.,T
+The allocation matrix from three equivalent control-surface deflections to four actual control-surface deflections is not unique.,T
+Flight stability of a statically unstable body must rely on negative-feedback control to create artificial damping.,T
+The six-component aerodynamic data table quantitatively reflects the aerodynamic characteristics jointly caused by geometric design and component arrangement.,T
+"Controlling a statically unstable body is relatively more difficult than controlling a statically stable body, and it also places higher requirements on actuator output torque and bandwidth.",T
+"In component arrangement, the seeker is usually placed in the radome at the front end of the fuselage, followed by the warhead and instrument compartment (including navigation and electronic equipment), and finally the engine.",T
+"The nose shape and fineness ratio of the fuselage, the length and diameter of the cylindrical section, and the shapes, areas, and installation positions of the wing and tail affect not only lift-to-drag ratio and maneuver overload, but also stability.",T
+"In addition to ensuring the functional integration of components, component arrangement should also consider mass layout so that the body coordinate axes are principal inertia axes and the inertia tensor is diagonal as much as possible.",T
+"When selecting an engine scheme in overall design, existing mature technology is always preferred, or technology requiring only minor modification.",T
+"The main difference between a rocket engine and an air-breathing jet engine is that the former carries oxidizer, while the latter instead inhales air.",T
+"After startup of a turbojet engine, the turbine working cycle is driven by gas from the combustion chamber.",T
+"A. ramjet has no compressor, turbine, or other rotor components; compression is achieved by inlet ram pressure.",T
+A. ramjet cannot be started directly and requires a booster to accelerate it to about Mach 2.5,T
+"Typical tactical missile engines (such as those for anti-tank missiles and surface-to-air missiles) are often divided into a booster stage and a sustainer stage, or use a single chamber with dual thrust. The booster stage has high thrust and short duration, while the sustainer stage has lower thrust but longer operating time.",T
+"ballistic missileandits missilerelativethan, thatadoptuse ofsolidrocket engineofdiameterlarge, forcelarge, operationwhenbetween.",T
+solidrocket engineof whenbetweengenerallynot exceed70.,T
+"solidrocket engineofinside trajectoryisrefer to propellant grain that ofcombustion chamberpressure, force whenbetweenofchangerelationship, namely pressureor force- whenbetweencurve.",T
+"medium- and long-rangeballistic missileofengine ofMinuteman2-, Minuteman-3havehave forcevector, cancontrolflight.",T
+"long-rangemissileofsolidenginecasingadoptuse about casing, while missileenginegenerallyadoptuse low ofhigh strength or material.",T
+adjuststar grainofparametersthencan toadjustinside trajectoryof forcecurve,T
+"star grainandits shapethan relatively, forcerelativelylarge, parameterscan, normal be ballistic missileand missileofbooster stagemake use.",T
+"missile flight can radiate, velocityoroverloadetc. ofmain need toparameters, callas overall parameters.",T
+"mass inofpropellantmasscoefficientnot isbasis, whileisneed to flight can related to velocityorradiate calculationobtainto.",T
+"mass havehave upper of, because of as enginestructuremasscoefficient, body structuremasscoefficientneed tobasis or.",T
+"than is whenbetweenchangeof, but overall parametersdesignrelated to ofislaunch thrust-to-weight ratiooraverage thrust-to-weight ratiothan!",T
+"cruise missilewing loading coefficientisaccording tomaximum lift-to-drag ratioprinciplesdesignof, whilesurface-to-air missileisaccording tomost large needoverloadprinciplesdesignof.",T
+"wing loading coefficientparametersinofareaS, can toiswingofareaorfuselageofcross-sectional area, upper is valuecalculationaerodynamiccoefficientwhenthatto shouldofreference area!selectwing loading coefficient, ofisas obtainto provide the requiredliftlarge small to shouldofreference area.",T
+"to in ballistic missile, enginediameter, section loading coefficientinofreference areaSthenisdetermineoffuselagecross-sectional area, not requiredagain select section loading coefficientanti- fuselagecross-sectional area.",T
+"straight methodin, structuremassandpropellant grainmass need to can can correct engineparameters diameter, length, diameterorcombustion chamberpressure, areathan, propellant grainparametersetc. offunction, inside trajectory force is parametersoffunction, havehaveinside in because of relationship.",T
+"ballistic missile ofNo. thenis to oftargetandassume oflaunchpoint, design flighttrajectory, theoryupper make missilealong trajectoryflight.",T
+"in schemedesignstages, trajectorydesignas structureand systemprovideaerodynamicload, load, temperatureloadetc. parameters, as guidanceandcontrol systemdesignprovide the requiredoftrajectoryparameters.",T
+main assume normal valueattitude angle isas ensurerelated to front of stableaccuracy.,T
+"trajectorydesigninclude azimuth angleofcalculationandpitchflight angleofcalculation, pitch anglealso false assumeas parameters offunction, most as seek missile pointandits ofparameters.",T
+"solutionmissilemost flight questionits is value question, ofselfchangequantityispitch angle whenbetweenofchangefunction.",T
+"gravity intrue ofmost flight is items ofanti-positive function, designin, as can touse pitch angle whenbetweenoflinearfunction.",T
+"controlof to correct missile, as, main, trajectoryparametersdesignwhen, to again can angle ofmost again than example methodstoconvenient pointand angle, carry outtrajectoryandguidancemethodsof design.",T
+"guidanceneed tohave designgoodof calltrajectory, and issmall quantity haverelativelygoodofguidancecontroleffectiveness",T
+"guidancemethodsof isin calltrajectoryupper ofeach point, to causetrajectorychangeof changequantitycarry out, linear, carry out anti- controlof.",T
+velocityincrease is flighttrajectory pointofneedvelocityvectorandwhenfront velocityvectorof,T
+velocityincrease guidancenormal use in large atmosphereoutside ballistic missile related to control.,T
+missile controllerdesignnot needconsideractuator ofpower transfer function,F
+"missileis ofnon-linearwhenchangesystem, attitude control designisin point to power carry outsmall, carry outlinear, thuscan along use classicaloflinearsystemcontrolmethods in transfer functionofcontrollerdesignmethods obtain pointoflinearcontroller, not ofoperation pointonly need tocarry outcontrolparametersofincrease degree.",T
+trajectory flightof control commandisto and trajectoryto shouldof anglecarry outguidancecheckpositive obtainto ofattitude anglecommand.,T
+"classicalofwhen PIDcontrolleror front rear checkpositive, isbasicof controllerstructure, considerto actuatorpower of and affect, controlleroftransfer functioncan canhigh in.",T
+"of canis normal value, but not goodallow and whilenot stable.",T
+"controllerdesign need tocalculationoperationpoint of, obtainto linear power coefficient, givefrom etc. equivalent control-surface deflectionto attitude angleorangle of attacketc. oftransfer functionmode, can in self control theorydesigncheckpositive.",T
+"flight, if adoptuse lift, lift-to-drag ratiolarge in axisto call",T
+"describemissileaerodynamicoutside shapedesignefficiencyofrefer to not islift-to-drag ratio, whileisstatic stability.",F
+missilebodydesignbecause of missile small make obtainaerodynamiccontrol surfaceof controlefficiencylow.,T
+"materialandstructureofstrengthrefer toofismaterialandstructurein load, temperatureetc. operationenvironmentlower resist andmaintainpositive normal operationofcapability.",T
+have methodisstructureanalysisinnormal use ofa kind of correctsolutionmethods.,F
+missilestructuredynamic characteristics analysis can to as structureandits othersystemof analysisofbasis.,T
+"mode shapedampingthan in to reducesmall should valuehave functions, in non- havefunctions.",F
+"changeshape isrefer toin structural deformationandaerodynamic force functionslower, structural deformationof.",F
+control surfacenot belong towing.,F
+"in wingdesignin the process, flight structuredesignofbasicrequirements, also required outside shape correctdegree, stiffness, aerodynamic heatingetc. specialrequirements.",T
+structurewingof generallyalong toward.,F
+"forceanalysiswhen need toconsidermain main load-bearing elementupper forceofoverall, also need toconsider main load-bearing elementtoand need to force position.",F
+"ofmain jointcan wingof bending momentand large shear force, but not wingtorque.",F
+"in fuselagein the structure, is axial forceandbending momentofmain main load-bearing element.",T
+ofsectionareamain need toaccording to stiffness requirementdetermine.,T
+reinforced framemain must bearlarge of load.,F
+"as improvehigh fuselagestructuredesign, designcalculation in main main load-bearing element determineof front carry out.",F
+"fuselageeach of strengthcoefficientη large in 1, and ηthe more large structuredesignthe more reasonable.",F
+fuselageoftorsion causehead sectionof angle of attack.,F
+offunctionsisin missile rear can actuation mechanism.,F
+"than change use is flightparametersadjustcontrol surfaceofdeflection angle, to shouldmissilestabilityandmaneuverabilityrequirements, and large oflateral load.",T
+control surfaceof form isactuation mechanismof itemsdesign.,T
+"in thathaveactuation mechanismdesignin, all have relationship, stiffness,, motion independenceetc. ofdesignrequirements.",F
+"temperature high when, metal materialofstrengthgenerally improvehigh.",F
+"ofstrengthandstiffnessthan aluminum alloyneed tohigh many, fuselagecasingnormal use.",F
+"materialof materialoffatigue resistance, generallysmall in materialof ultimate strength.",T
+stressstrengthbecause of crackmaterial resist ofcapability.,F
+"magnesium alloyof pointis strengthandelastic moduluslow, resistant to can.",T
+"titanium alloy ofadvantagesisstrength than alloy steelsmall many, but specific strengththan alloy steelhigh.",F
+fiber-reinforced compositeofmain need toadvantagesiseach itemsdirection havehaverelativelyhigh ofspecific strengthandspecific stiffness.,F
+fiber-reinforced compositeoffatigue resistanceandreduce can relatively.,F
+missilestructureseparation ofselectandmaterialofselect belong tomissilestructuredesignofinside allow. (),T
+missilestructureofoperationenvironmentbelong toits designof. (),T
+body coordinate systemof pointin its center of pressure. (),F
+"missileadoptuse when,verticalin towardupper improve produceofaccelerationas $9.8\mathrm{m / s}^{2}$, whenmissileoflateral overloadcoefficient $n_{\mathrm{yl}}$ as 1. ()",F
+"in determinemissileofdesignsituationwhen,requiredto thathavecan canoftrajectoryall carry outcalculation. ()",F
+"structureofstrengthuse materialofforce can(proportional limit, ultimate strength, etc.). ()",F
+"use method missilenatural frequencywhen,that obtainfrequencyofmost high etc. in pointitems. ()",F
+"body structurenatural frequencyshouldandcontrol systemfrequency proximity,toconvenientin missileofcontrol. ()",F
+"control reversalisrefer tobyin structural deformationandaerodynamic force functionscausecontrol surfaceeffectivenesscan low,to anti- of. ()",T
+according to etc. ofsparthan verticalin fuselageaxis ofsparof good. (),T
+missileof forceanalysisisa kind of quantityofanalysis. (),F
+force isoutside loadbyfunctions structureinside of. (),T
+fuselageupper of force hatch coveronly whilenot axial force. (),T
+"relative compartment section ofbending engineof force,but offset not.()",F
+actuation mechanismof relationshipgenerallyislinearof.(),F
+actuation mechanismofstructure normal according tostiffnessrefer to carry outdesign.(),T
+actuation mechanismofmotion independencerequirementsis to control surfaceproposeofspecialrequirements.(),T
+offiber-reinforced compositeeach itemsdirectionofforce canall than metal materialofgood.(),F
+"According to where the guidance command is formed, remote control guidance is divided into remote command guidance and beam-riding guidance.",T
+The transformation matrix between the body coordinate system and the ground coordinate system can be obtained through two rotations.,F
+"Pitching moment, yawing moment, and rolling moment are moments of aerodynamic force relative to the missile center of mass.",T
+"According to the right-hand rule, the moment causing the missile to yaw to the left is a positive yawing moment.",T
+"To ensure that the missile flies along the predetermined trajectory, the required overload should be greater than the available overload.",F
+"When using the parallel-approach guidance method, the required normal overload of the missile is greater than the normal overload of the target.",F
+Pursuit guidance is a method in which the missile axis or nose direction points toward the target.,F
+"Proportional navigation has the characteristics of a trajectory that curves early and straightens later, terminal overload that is easily affected, and wide engineering application.",T
+Both the pursuit method and the three-point method are special forms of proportional navigation.,F
+"When using the three-point guidance method, the missile is located on the line connecting the target and the guidance station.",T
+"The trajectory characteristics of the three-point method are a relatively straight trajectory, dynamic errors that are difficult to compensate, and trajectory sagging.",F
+"Radio homing guidance is a guidance method in which equipment installed on the missile receives radio waves radiated or reflected by the target, tracks the target, forms guidance commands, and guides the missile toward the target.",T
+Missiles using active radio homing guidance systems are usually also called anti-radiation missiles.,F
+"The RF amplifier in the radar seeker receiving system, also called the front-end microwave assembly, directly amplifies the received echo signal while reducing its own noise; its main function is to improve receiver sensitivity.",T
+The primary task of the radar seeker information-processing system is to detect target signals from complex interfered signals and extract relative missile-target position and motion parameters in real time to obtain guidance information.,T
+"The preset loop is a typical speed control system. Structurally, it consists of two basically identical and mutually independent azimuth and pitch loops.",F
+"The function of the seeker angle-tracking loop is to make the radar seeker echo antenna automatically track the target in angle, so that the seeker can continuously receive the target echo signal.",T
+The wavelength of the infrared radiation energy of an object is proportional to its temperature.,F
+"Due to the selective absorption of the atmosphere, the energy of infrared radiation is concentrated near certain specific wavelength bands.",T
+"The image-point position reflects the magnitude and direction of the target deviation from the optical axis, and there is a one-to-one correspondence between the target and the image point.",T
+"In modulation-disk design, the equal-transmittance principle can eliminate the influence of large-area background radiation on target-signal extraction.",T
+"Rigidity in space and precession are inherent properties of a gyroscope, whether the gyroscope is operating or not.",F
+Common optical gyroscopes include laser gyroscopes and fiber-optic gyroscopes.,T
+"In general, any two coordinate systems in space can be made to coincide through three rotations. Each rotation yields an attitude transformation matrix, and right-multiplying these three matrices in sequence gives the overall attitude transformation matrix.",F
+"The purpose of using composite guidance is to increase the operating range of the guidance system, overcome the shortcomings of a single guidance method, exploit the advantages of various guidance methods, and improve anti-interference performance and guidance accuracy.",T
+"After the allowable-intercept flag is formed, the control algorithm uses missile-target motion parameters calculated in the midcourse guidance stage to provide the target's relative distance, velocity, and acceleration information with respect to the missile, and the seeker searches according to the target's approximate azimuth.",F
+"From a technical perspective, the principle followed by a multimode composite scheme is that the operating frequencies of the modes should be as close as possible in the electromagnetic spectrum.",F
+"A. missile is a space-moving body. In addition to the six states of center-of-mass motion and rotation about the center of mass, the body may also have elastic vibration, liquid sloshing when carrying liquid propellant, and engine nozzle swing under thrust-vector control. The final dynamic performance of the body is a combination of these motions.",T
+"After writing the missile motion differential equations by the small-perturbation method, higher-order terms above the second order of these small increments can be neglected, so the motion differential equations with perturbation quantities as basic motion variables become constant-coefficient differential equations.",F
+"From the perspective of maintaining and changing missile attitude, missile stability and control are contradictory; but from the perspective of ensuring that the missile flies along the reference trajectory, they are consistent.",T
+"The control-surface loop contains a tachogenerator and a position sensor. The tachogenerator measures the angular velocity of control-surface deflection and feeds it back to the amplifier, so that a certain control signal corresponds to a certain control-surface deflection.",F
+"The forces usually acting on a missile can be expressed as the resultant of gravity, engine thrust, and aerodynamic force.",T
+"In a rectangular-coordinate control system, the missile control force consists of two mutually perpendicular components. The guidance subsystem in the guidance equipment measures deviations along the two coordinate axes to form two control signals, one in the pitch direction and one in the roll direction.",F
+"The time constant of an aerodynamic control surface is larger than that of a direct-force lateral jet device, so aerodynamic control can achieve higher control accuracy than direct-force control.",F
+"The performance of a thrust-vector control system can be described from four aspects: jet deflection angle, lateral force coefficient, axial thrust loss, and driving force.",T
+The missile guidance system can function only in the initial stage of flight.(),F
+All missiles must have a warhead.(),T
+Rocket engines are the only type of missile propulsion device.(),F
+The classification of missiles by range is absolutely fixed and will not change due to technological development or other factors.(),F
+homing guidancemissile can correct intarget.(),F
+missilebodyoutside shapedesignto flight can haveaffect.(),F
+land-based launchofmissile existcapabilityall than sea-based launchofmissile.(),F
+"missileofwarheadpropellant grainthe more many, forcethenthe more large.()",F
+"guidance systeminofmeasuring device of the more correct, missileguidance precisionthen the more high.()",F
+thathavemissileall needlaunchplatform.(),T
+"from ground coordinate systemto trajectory coordinate systemofchange as to shouldof of, relative of andcoordinate axes relative, thenisrear obtainto of right obtainto of.",F
+"to in missile, in establishmissilemotion mode when, can towill ground coordinate systemwhen.",F
+"in flightin the process, guidancecontrol systemaccuracyofimprovehigh, error reducesmall, most maintainas zero, thattoidealcontrolrelationship is existin of.",F
+"ground coordinate systemandvelocity coordinate systemofcoordinate axes not, not, thatto of betweenofrelativeto positionneeduse itemsparameters determine.",F
+"Pitching moment, yawing moment, and rolling moment are moments of aerodynamic force relative to the missile center of mass. Correct answer: No. 16question true/false question (1 point)to in verticallaunchsurface-to-air missileofverticalupper, can to in quaternion methodestablishmissileof motion mode. Correct answer: No. 17question true/false question (1 point)angle relationship equationofformnot is of. Correct answer: No. 18question true/false question (1 point)as ensuremissilealong predetermined trajectoryflight, missileofrequired overloadshouldwhenlarge in available overload.",F
+solutionobtainto missilecenter of massmotion obtainto ofmotion upper all ismotionparametersof whenvalue.,F
+haveeffective launch zoneisrefers to the idealtrajectorythatrequirementsofnormalaccelerationvaluelarge in missilecan use normalaccelerationvalue.,F
+"adoptuse three-point methodguideofmissile, to attackhigh targetrelativelyas havebenefit.() #",F
+Pursuit guidance is a method in which the missile axis or nose direction points toward the target.,F
+three-point methodinofetc. normalaccelerationcurveismissileandtargetofaccelerationrelativeetc. ofcurve.(),F
+haveeffective launch zoneisrefers to the idealtrajectorythatrequirementsofnormalaccelerationvaluelarge in missilecan use normalaccelerationvalue.(),F
+"adoptuse three-point methodguideofmissile, to attackhigh targetrelativelyas havebenefit.()",F
+"Proportional navigation has the characteristics of a trajectory that curves early and straightens later, terminal overload that is easily affected, and wide engineering application.",T
+seekofguidance systemofguidance command channelnormal needconsideridealtrajectoryrequirementsofparametersandseekerobservationofmissilemotionparametersoferror.,F
+main typeradar seekerhave straight receive.() #,F
+radar seekerinoflogic controlandmanagermain need tocompleteguidance informationof.() #,F
+radar seekerinofcommand formationdevicethatproduceofcommandsend to.(),F
+seekofguidance systemofguidance command channelnormal needconsideridealtrajectoryrequirementsofparametersandseekerobservationofmissilemotionparametersoferror.(),F
+"is items ofspeed control system, from structureconsist ofupper isby itemsstructurebasicrelative also relative of positionandpitch loopconsist of.",F
+"whenseekerto targetwhen, targetimage pointpositionin modulation diskin, whenwithout haveeffectivenesssignal.",T
+"to in large areaof radiation, needin items inside maintainmodulation diskof as value, thenisetc. areaprinciples.",F
+"normal by, can image pointcanquantitylarge small, also can image pointpositionchange.",F
+"rigidity in spaceandprecessionisgyroscopeof have, without gyroscope is high rotation, all have.",F
+"generally rotationcan tomake any two coordinate systems in space, rotationcan toofto itemsattitude transformation matrix, will itemsattitude transformation matrix right thenobtainto overall ofattitude transformation matrix.",F
+platform inertial navigation systemiswill straight in upper ofa kind ofinertial navigation.,F
+"in shape allowable-intercept flagof rear, control method midcourse guidance stagecalculationofmissiletargetmotionparameters, givetargetrelativeto missileofdistance, velocityandacceleration, seeker target azimuth anglecarry out.",F
+"from angledegree, multimode composite scheme ofprinciplesiseach mode ofoperating frequencyin electromagnetic spectrumupper relative the more the more good.",F
+"stability loopofmain need to canisstablemissilein betweenofcenter of massmotion, stablemissileof characteristics and characteristics.",F
+"will missilemotion use small-perturbation method rear, in small increasequantityof toupper high can toignore, thusmake to quantityas basicmotion quantityofmotion changeas constant-coefficient differential equation.",F
+"aerodynamic control surfaceofwhenbetweennormal than straight forcelateraljet flowdeviceneed tolarge, because of adoptuse aerodynamic controlcan to obtainthan direct-force control high ofcontrolaccuracy.",F
+tailas A. liftcomponent B. stablecomponentC controlcomponent,B
+"power inofreference area, reference length A. reference areaonly canas missile area, reference lengthcan B. reference areacan, reference lengthonly canas missilelength C. reference areaonly canas area, reference lengthonly canas missilelength D. can",D
+"bodypositive sideslip angle, to shouldof forceas A. positive B. negative C. not determine",B
+"elevatorupper, to shouldofpitchcontrol momentas A. positive B. negative C. not determine",A
+"bodypositive angle of attack, to shouldofliftas A. positive B. negative C. not determine",A
+"selfbydegree measuremissileofattitude angle, benefituse ofcharacteristicsA toward B. precession C. stability D. moment",A
+"long-rangeballistic missileupper of stableplatformupper accelerometermeasurevalue, isrelativeto A. launch B. body coordinate system C. D",C
+"benefituse determinemissileof degree smallneed________ of, todeterminerelativeshouldof elevation angle. A 1 B 2 C 3 D 4",B
+"to in small diametermissile, actuator axiscan andaerodynamic control surface axisconnection, actuatoras A. actuator B. aerodynamicactuator C. actuator",C
+medium- and long-rangeballistic missileoffuselagestructureas A. B. semi- C. integral wall-panel type,B
+cruise missileofwingstructure normal as A. frame-skin wing B. integral wall-panel type C,A
+skin ofmain need to force as A. longitudinal wall B. spar C. stringer D. rib,B
+bodyoutside shapeaerodynamic efficiencyof refer to as A. high lift B. low drag C. high lift-to-drag ratio,C
+""" "" shape A. ballistic missile B. surface-to-air missile C. missile D. cruise missile",D
+"ballistic missile, surface-to-air missile, anti- missileadoptuse A. positive normal B. C. D. without",A
+"""X""shape than ""+"" shape ofcontrol efficiency A. high B. low C. not determine",A
+"fuselagediameteris items need toofdesignparameters, consideroffactorshave A. drag B. warheaddiameter C. seeker distanceand D. enginediameter E. launchdevice F. missilestructurestiffness",A
+"as head sectionofaerodynamicdragand characteristics factors, missile offineness ratio large as A 1~2 B 2~3 C 3~4 D 4~5",B
+large atmosphereoutside anti- anti- of fineness ratiotheorymost valueas A 0.5 B 1 C 2 D 3,A
+error ofaffect in measure A. missilepitch angle B. targetline of sightangle C. missiletrajectory inclination angle D. missiletrajectory deflection angle,B
+"high flight, when as 250KPawhen, lift fuselageandcylinderfuselageoflift-to-drag ratiorelativethan A. liftbody farlarge in cylinder B. lift cylinder C. liftbody farsmall in cylinder",B
+cylinderfuselageofcenter of pressurepositionin lengthof _______. A 43% B 53% C 63% D 73%,C
+maneuver ofdegreequantityrefer to as A. angle of attack B. overload C. flightvelocity D. lift,B
+"need tomake positive normal static stabilitybodyofangle of attackbyzerochangeas -5degree(low), then elevator A. towardupper deflect directlyto trim angle of attack B. towardlower deflect directlyto trim angle of attack C. first towardlower, again towardupper deflect directlyto trim angle of attack D. first towardupper, again towardlower deflect directlyto trim angle of attack",B
+"positive normal ofstatic instabilitybody, control surfaceofhaveeffectivenessangle of attack A. small in bodyangle of attack B. large in bodyangle of attack C. etc. in bodyangle of attack",B
+"B. TTduring maneuver, as reducesmall aerodynamic coupling, commandas A. angle of attackas zero B. sideslip angleas zero C. bank angleas zero D. rudder angleas zero",B
+"as ensuremain controlofstabilityandaccuracy, requirements that to of and momentmost large as can use control momentof A 10% B 20% C 40% D 50%",B
+missileofcontrol normal as A. control surfaceofinstall B. body coordinate system C. velocity coordinate system D. launch,B
+etc. equivalent control-surface deflectionofcalculationisbasis A. control momentetc. effectivenessprinciples B. controlforceetc. effectivenessprinciples C. angle of attacketc. effectivenessprinciples D. sideslip angleetc. effectivenessprinciples,A
+"false assumebody structure natural frequencyas WB, natural frequencyas WA, attitude control systemfrequencyas WC, guidance systemfrequencyas WG, component arrangement, of betweennot can, need to, whileand large small as A. WA>WB>WC>WG B. WB>WA>WC>WG C. WC>WB>WG>WA D. WB>WC>WA>WG",B
+"enginedepartmentneedfrom overall design department obtainofmain need to parametersis, its as. A. overall and force B. enginemass C. enginelength D. enginediameter",A
+enginethan most small ofis A. solidrocket engine B. rocket-ramjet engine C. turbine engine D. turbine engine,A
+acceleration performancemost goodofis A. solidrocket engine B. rocket-ramjet engine C. engine D. engine,A
+long-rangeballistic missileadoptuse ofpropellantgenerallyas A. propellant D. BBmodified double-base propellant C. MDCcompositepropellant C. PDblack powder,C
+propellantbelong to A. propellant D. BBmodified double-base propellant C. MDCcompositepropellant C. P D. black powder,C
+"propellantmany be missileetc. quantity missileadoptuse, than large as A 220s~240s B 240s~260s C 260s~280s D 280s~300s",A
+engineinside canmost goodof shapeas A. propellant grain B. inside outside propellant grain C. star grain,C
+"ballistic missileoflaunch thrust-to-weight ratiooraverage thrust-to-weight ratiothan, small then acceleration performancenot good, large then engineofstructuremass large, relativelyas reasonableof valuecan as A1~2 B3~5 C8~10 D11~13",B
+"ballistic missiletrajectorydesignas point degreeofetc., normal use ofhaveeffectiveness value methodsis A. shapemethod B. compositeshapemethod C. method D. method",D
+"missile B. TTduring maneuver, theoryupper A. missilesideslip angleas zero B. missilepitch angleas zero C. missileyawangleas zero D. missileroll angleas zero",A
+missileofbasicconsist of not includethe followingwhich item?() A. warhead B. powerdevice C. D. guidance system,C
+the followingwhich typeguidance accuracymost high?() A. inertial guidance B. homing guidance C. remote control guidance D. composite guidance,B
+"missileaccording toradiate, in missileradiate generallyas () A. 1000 - 3000 B. 3000 - 8000 C. 8000 - 10000 D. 10000 toupper",A
+missileofpowerdevicemain need toisas provide() A. flight adjust B. lift C. force D. stablemoment,C
+the followingwhich typemissilebelong toair-defense missile?() A. Dongfeng-17 B. Hongqi-9 C. Changjian-10 D. Yingji-8,B
+missileguidance systemof is() A. measuring device B. computing device C. guidance device D. control device,C
+missileofwarheadaccording tofunctions can be divided into() A. normal warheadand warhead B. warheadand warhead C. canwarheadand warhead D. warheadand warhead,C
+"missilelaunch in, silo launchofadvantagesnot include() A. high survivability B. fast reaction speed C. easy to maintain D. can carry large missiles",B
+"missileflightin the process, can when positive flight trajectoryofis() A. initial guidance B. midcourse guidance C. terminal guidance D. full-course guidance",B
+the followingwhich typemissilecan use in land attack?() A. Harpoon missile B. Tomahawk missile C. Sidewinder missile D. HHQ-7,B
+trajectory inclination angleandtrajectory deflection anglecharacterizestrajectory coordinate systemand()of betweenofpositionrelationship. A. ground coordinate system B. execution coordinate system C. trajectory coordinate system D. velocity coordinate system,A
+"in researchcenter of masswhen studying dynamics problems,will vector equationprojectto ()most convenient. A. ground coordinate system B. body coordinate system C. trajectory coordinate system D. velocity coordinate system",C
+center of masskinematic equationcharacterizesofis()ofrelationship. A. missileattitude angleandanglevelocity B. missileattitude angleandmissileposition C. missileattitude angleandmissilevelocity D. missilepositionandmissilevelocity,D
+"to in plane-symmetricmissile,as low control systemofcomplexity, normal maintain()channel stable. A. pitch B. yaw C. roll D. high low",B
+overloadvectoralong body coordinate systemlongitudinal axisofthe projection is called(). A. tangential overload B. normal overload C. longitudinal overload D. lateral overload,C
+parallel approach methodisrefer to()in maintaining parallel motion in spaceofa kind ofguidancemethods. A. missilevelocityrefer totoward B. missile-target line C. targetvelocitydirection,B
+proportional navigationisrefer tomissileflightin the processvelocityvectorofrotation anglevelocityand() than exampleofa kind of methods. A. missile-target line angle B. missile axisvelocityrotation anglevelocity C. line of sightofrotation anglevelocity,C
+proportional navigationinthan examplecoefficientselectgenerallyof between is(). A. 3to 6 B. 1to without large C. 5to 8,A
+"no-attack zoneisrefer to()of,in inside missilewithout methodalong requirementsof trajectoryflight. A. requireduse normal overloadexceedlimit overload B. can use normal overloadexceeds the requireduse normal overload C. requireduse normal overloadexceedcan use normal overload",C
+"TVMguidance systemin,to targetofsource of the radiation signalis(). A. missileseeker B. ground control station",B
+"in ()homing guidancein,guidance station to selecttarget, launch the missileoffunctions,also to provideillumination energy for the targetoffunctions. A. be type B. semi-main type C. main type",B
+"()ofmain need tofunctionsis receive of,toensureto echo signalcarry outhaveeffectivenessof large. A. automatic gain control circuit B. frequency converter C. detector",A
+"in modulation diskdesignin the process,adoptuse radial amplitude-variation modulationisas measuretargetimage pointof(). A. displacement amount B. azimuth angle C. radiant energy D. radiationwavelength",A
+"in modulation diskdesignin the process,settingstart markisas measuretargetimage pointof(). A. displacement amount B. azimuth angle C. radiant energy D. radiationwavelength",B
+MEMS gyroscope angle is(). A. force B. Sagnac effect C. Coriolis effect D. Doppler effect,C
+lower which not belong tomany modecompositeseekofguidance systemofmain need toadvantages.() A. improvehigh guidance systemofanti-interference capability B. improvehigh homing guidanceofaccuracy C. improvehigh guidance systemcost performance,C
+"body()parametersofbodymass, moment of inertia, center of masspositionetc.,in missileflightin the process propellantof not change. A. structure B. aerodynamic force",A
+"()isadoptuse rotationmain lift ofa kind ofcontrolmethods,isa kind oflow efficiencyofmethods,because of isuse small offorce produce itemslarge ofnormal force. A. control B. front control C. wing",C
+missilehavehaverelativelyhigh guidance precisionofisbecause of as its havehave (). A. propulsion system B. guidance-and-warhead system C. guidance system D. bodysystem,C
+missileofcontrol systemalso calledas (). A. stability loop B. guidance loop C. detection loop,A
+missileofcontrol systemalso calledas (). A. stability loop B. guidance loop C. detection loop,A
+"composite guidancecan be divided intoseries combination, parallel combination, () types.A. seeker combination B. series-parallel combination C. mode combination",B
+"missileofliftcan can be regarded asisspring, fuselage, tailandcontrol surfaceetc. componentproduceofliftof and, its in ()isproduceliftofmain need tocomponent. A. wing B. fuselage C. tail D. surface",A
+"to in axisto callmissile, quantity only havemain to angle upper of not as zero, its other as zero. Correct answer: Question 2 single-choice question (1 point)in researchcenter of masswhen studying dynamics problems, will vector equationprojectto ()most convenient. A. ground coordinate system B. body coordinate system C. trajectory coordinate system D. velocity coordinate system",C
+"in researchabout center of massrotationofwhen studying dynamics problems, will vector equationprojectto ()most convenient.A. ground coordinate systemB body coordinate systemC trajectory coordinate systemD velocity coordinate system",B
+about center of massrotationofkinematic equationcharacterizesofis ()ofrelationship.A. missileattitude angleandanglevelocityB missileattitude angleandmissilepositionC missileattitude angleandmissilevelocityD missilepositionandmissilevelocity,A
+"items of betweenofpositionrelationshipuse 8 itemsangledegree characterizes, 8 itemsangledegreeinhave ()itemsis of.A5B6C7D8",A
+"to in axisto callmissile, as low control systemofcomplexity, normal maintain ()channel stable. A. pitchB yawC rollD high low",C
+missileaccording to oftrajectoryflightwhenrequiredofnormal overload (). A. available overload B. required overload C. limit overload D. combined overload,B
+the following belong to ofhave (). A. ground coordinate system B. body coordinate system C. trajectory coordinate system D. velocity coordinate system,A
+velocity roll anglecharacterizestrajectory coordinate systemand ()of betweenofpositionrelationship. A. ground coordinate system B. execution coordinate system C. trajectory coordinate system D. velocity coordinate system,D
+"missileofliftcan can be regarded asisspring, fuselage, tailandcontrol surfaceetc. componentproduceofliftof and, its in()isproduceliftofmain need tocomponent.A. wing B. fuselage C. tail D. surface",A
+"in researchcenter of masswhen studying dynamics problems, will vector equationprojectto ()most convenient.A. ground coordinate systemB body coordinate systemC trajectory coordinate systemD velocity coordinate system",C
+overloadvectoralong velocity coordinate systemlongitudinal axisofthe projection is called (). A. tangential overload B. normal overload C. longitudinal overload D. lateral overload,A
+"adoptuse pursuit methodwhen guiding, considerto impact pointoverload, missilecan hittarget, missile-targetvelocitythan should is () 1). A. Plarge in etc. in 1and Psmall in 2 B. Plarge in etc. in 2and Psmall in 3 C. Plarge in etc. in 0.5.",A
+"parallel approach methodrefer toofismissilein attacktargetofin the process, ()in maintaining parallel motion in spaceofa kind ofmethods.A. missile-target line B. missilevelocityvector C. missilebody",A
+"adoptuse parallel approach methodwhen guiding, missileofrequireduse normal overload ()targetofmaneuver overload.A. large in B. etc. in C. small in",C
+the followingbelong toparallel approach methodcharacteristicsofis (). A. trajectory straight B. curved trajectory C,A
+proportional navigationisrefer tomissileflightin the processmissilevelocityrotation anglevelocityand () than exampleofa kind of methods.A. line of sightangle B. line of sightanglevelocity C. targetanglevelocity,B
+"adoptuse proportional navigation targetwhen, its trajectorycharacteristicsis (). A. front curvedrear straight B. front straightrear curved",A
+"adoptuse proportional navigation when, to than examplecoefficient $\mathrm{K}$ requirementsis () A. B. C",A
+three-point methodisrefer tomissilein attacktargetin the process positionin ()of upper. A. guidance stationandtarget B. pointandtarget C. missileandtarget,A
+"adoptuse three-point methodtail-chase interceptiontargetwhen, missileofoverloadchangeis ().A. bylarge changesmall B. bysmall changelarge",A
+"three-point methodno-attack zoneisrefer to, (), missilewithout methodalong requirementsof trajectoryflight, because of whilenot can intarget.A. requireduse normal overloadwill exceedcan use normal overload B. can use normal overloadwill exceeds the requireduse normal overload C. can use normal overloadetc. in requireduse normal overload",A
+"from no-attack zoneangledegreeconsider, designthree-point methodguideofmissilewhen, its available overloadshould can can ().A. small B. large",A
+"adoptuse pursuit methodwhen guiding, considerto impact pointoverload, missilecan hittarget, its missile-targetvelocitythan is ().A. P large in etc. in 1 and P small in 2 B. P large in etc. in 2 and P small in 3 C. P large in etc. in 0.5 and P small in 2",A
+proportional navigationisrefer tomissileflightin the processvelocityvectorofrotation anglevelocityand () than exampleofa kind of methods. A. missile-target line angle B. missile axisvelocityrotation anglevelocity C. line of sightof anglevelocity,C
+"adoptuse three-point methodtail-chase interceptiontargetwhen, missileofoverloadchangeis (). A. bylarge changesmall B. bysmall changelarge",A
+"adoptuse radio command guidancewhen, its controlmissileofcommandisby ()produce. A. missile B. control station",B
+"adoptuse radio command guidancewhen, its controlmissileofcommandisby ()produce. A. missile B. control station",B
+"TVM guidance systemin, to targetofsource of the radiation signalis (). A. missileseeker B. ground control station",B
+"radio homing guidanceofmissilein during the guidance process, observing and tracking targets, form control commands toandcontrolmissileflight, all isby ()completeof. A. missileupper equipment B. guidance radar C. commandcontrol system",A
+"radar seekerreceiving systemwill antenna receivingto ofweakecho signal to large and convert into (), send toits otherequipment.A. high frequency signal B. intermediate-frequency signal C. video signal",C
+"radio homing guidancesystemsignal ofbasictasksis targetsignal, improve guidance informationand (). A. controlseeker B. shape controlcommand C. controlmissileflight",B
+"radar seekerrequiredofguidance informationmain need tohavemissile-target relativeto velocity, distanceandrotation angle of the missile-target line of sightvelocity, this information includesin ()of in. A. guidance radarofillumination signal B. seekerlaunchofsignal C. seekerreceiveofecho signal",C
+"radar seeker control systemby () (2)andcommand formation etc. consist of.A, stability loop, guidance loop B, stability loop, angle",B
+"seekerall have items echo antennarefer totowardangle of, items callof as ().A. B. guidance loop C",A
+"radio homing guidanceofmissilein during the guidance process, observing and tracking targets, form control commands toandcontrolmissileflight, all isby ()completeof. A. missileupper equipment B. guidance radar C. commandcontrol system",A
+"radar seekerreceiving systemwill antenna receivingto ofweakecho signal large and convert into (), send toits otherequipment.A. high frequency signal B. intermediate-frequency signal C. video signal",C
+"radar seekerrequiredofguidance informationmain need tohavemissile-target relativeto velocity, distanceandrotation angle of the missile-target line of sightvelocity, this information includesin () (2) of in.A. guidance radarofillumination signal B. seekerlaunchofsignal C. seekerreceiveofecho signal",C
+radar seekerincompleteseeker signal ofdeviceis (). A. measuring device B. command formationdevice C. logic controlandmanager D. receive,C
+"outside signal ofmethodsisin () (1)front items, to image pointof.A. main anti-mirror B. anti-mirror C. anti- D. modulation disk",C
+"when background interference is formedofimage pointthe area is relativelysmall when, can by adoptinguse () (1) modulation diskimprovehigh spatial filtering capability.A. full-spoke type B. half-spoke type C. semi-transparent type D. checkerboard pattern",D
+"whenimage point towardmodulation disk when, displacement amount ().A. increaselarge B. reducesmall C. not change",A
+"in modulation diskdesignin the process, settingstart markisas measuretargetimage pointof (). A. displacement amount B. azimuth angle C. radiant energy D. radiationwavelength",B
+"when background interference is formedofimage pointthe area is relativelysmall when, can by adoptinguse ()modulation diskimprovehigh spatial filtering capability.A. full-spoke type B. half-spoke type C. semi-transparent type D. checkerboard pattern",D
+"interminal guidanceofseekerhandoverinclude ().A. distancehandover, angledegreehandoverandanglevelocityhandover B. distancehandover, angledegreehandoverandvelocityhandover C. distancehandover, velocityhandoverandaccelerationhandover",B
+interminal guidancetrajectoryhandoveroffirst-order smooth transitionisrefer toin ensure that the two at the junctiontrajectoryof ()same direction.A. velocity B. acceleration C. angledegree,A
+"interminal guidancehandoveroftasksmain need toiscomplete ()handoverand((2) handover.A. seeker, trajectory B. guidance radar, seeker C. missile, target",A
+"use aperturemethodisrefer to andcompositeofeach (), shape use aperture.A. respectivelymake use each selfofaperture B. aperture",B
+"many modecomposite guidanceisrefer tobymany modesof () andguidance, completed jointlymissileofseekoftasks. A. guidance radar B. control system C. seeker",C
+"interminal guidancehandoveroftasksmain need toiscomplete () (2)ofhandover.A. seeker, trajectoryB guidance radar, seekerC missile, target",A
+"interminal guidanceofseekerhandoverinclude (). A. distancehandover, angledegreehandoverandanglevelocityhandover B. distancehandover, angledegreehandoverandvelocityhandover C. distancehandover, velocityhandoverandaccelerationhandover",B
+interminal guidancetrajectoryhandoveroffirst-order smooth transitionisrefer toin ensure that the two at the junctiontrajectoryof ()same direction.A. velocity B. acceleration C. angledegree,A
+"many modecomposite guidanceisrefer tobymany modesof () (2) andguidance, completed jointlymissileofseekoftasks.A. guidance radar B. control system C. seeker",C
+lower which not belong tomany modecompositeseekofguidance systemofmain need toadvantages.() A. improvehigh guidance systemofanti-interference capability B. improvehigh homing guidanceofaccuracy C. improvehigh guidance systemcost performance,C
+"body linkofmotion isa set of (), three-dimensional coupledofdifferential equation set. A. non-linear, variable-coefficient B. linear, normal coefficient C. non-linear, normal coefficient",A
+"missilestablecontrol system, namely stability loop, isrefer to () (2) ofclosed.A. autopilotandbody B. seekerandtarget",A
+autopilotof canis ()missileofflight.A. guideandcontrol B. stableandcontrol,B
+"toaerodynamic controlmissileas example, missilestablecontrol systeminclude () (2)two loops.A. andstability loop B. guidance loopandstability loop",A
+"in control-surface loopin, introduceinside anti- actuatorof can, its in, () (2) obtaincontrol surfacedeflection anglevelocity, feeds back to the amplifier, toincreaselarge control-surface loopofdamping, control-surface loopof can.A. position sensor B. tachogenerator",B
+"missileof to control surfacebyactuator anti-toward when, make missile (), then to control surface aileronfunctions, aileroncontrol surface. A. pitchmotion B. yawmotion C. about longitudinal axis",C
+"in control systemin, errorsignalisto offormsend tomissileupper control system, normal ofmethodsisrelativepositionsignal as ()command, make bodyfrom vertical itemsrelativepositionangle, rear use missileofpitchcontrol surfacecontrolmissile and valuesignalrelativeto shouldofmaneuver. A. roll B. yaw C. pitch",A
+"lateraljet flowdeviceoffront rear configuration methodiswill two sets of lateraljet flowdeviceplaced respectivelyin missileofhead sectionandtail section, can to realize (). A. force control B. moment control C. force controlandmoment control",C
+"body linkofmotion isa set of (1), three-dimensional coupledofdifferential equation set.A. non-linear, variable-coefficient B. linear, normal coefficient C. non-linear, normal coefficient",A
+"toaerodynamic controlmissileas example, missilestablecontrol systeminclude ()two loops.A. andstability loop B. guidance loopandstability loop",A
+"lateraljet flowdeviceoffront rear configuration methodiswill two sets of lateraljet flowdeviceplaced respectivelyin missileofhead sectionandtail section, can to realize (). A. force control B. moment control C. force controlandmoment control",C
+"missilebymany items systemconsist of, not belong tomissileof system? A. warhead system B. system C. propulsion system D. structural system",B
+body structureof quantitygenerally missile quantityof of many small? A. 6%~10% B. 10%~15% C. 16%~20% D. 20%~24%,C
+producemissileflightwhenthatrequiredliftofcomponentiswhichitems? A. wing B. control surface C. stable D. control surface,A
+"missiledevelopmentin the process, initial prototypestagesbelong towhich stages? A. design stages B. schemestages C. developmentstages D. stages",C
+missilestructuredesignoperationofmain need toinside allowisin stagescompleteof? A. positive stages B. schemestages C. stages D. initial prototypestages,D
+"in schemedesignstages, missilestructuredesignofinside allownot which item? A. proposestructuredesignscheme B. completestructureofoverall design C. complete can of D. structureschemedesignof andreview",C
+missileofdragXandliftYisits aerodynamic forcein inof force? A. body coordinate system B. velocity coordinate system C. launch coordinate system,B
+"as convenientin carry outstructureanalysis, normal will aerodynamic force to whichitems? A. body coordinate system B. velocity coordinate system C. launch coordinate system",A
+overloadcoefficientismissilethat ofwhich typeforceandmissilegravityof than? A. forceofresultant force B. forceofresultant force C. massforceofresultant force D. forceofresultant force,B
+"missile flightwhen, overloadcoefficientas many small? A. 0 B. -1 C. 9.8 D. 1",D
+"missilemaneuvering flightwhen, which typecontrol surface lower most large overloadcoefficientmost large? A. control surface B. control surface C. control surface",B
+"to missileofwhich overloadaffectrelativelylarge? A. axialandlateral B. axialandnormal C. normalandlateral D. axial, normalandlateral",C
+"determine trajectorywhen, according torequired overloadmost large of point, shouldselectwhich typetrajectory? A. most large radiatehigh, most large range B. most small radiatehigh, most small range C. most large radiatehigh, most small range D. most small radiatehigh, most large range",C
+"along trajectoryselectdesignsituationwhen, trajectoryupper of pointgenerallynot includewhich item? A. betweenseparationpoint B. most large liftpoint C. most large velocitypoint D. maneuvering flight point",C
+"internal forcescalculation pointof methodcan from which items consider? A. calculation point, lengthnot, considerload situation B. calculation point, considerload situation, adoptuse C. calculation point, lengthnot, adoptuse D. considerload situation, lengthnot, adoptuse",B
+"the followingwhich loadbelong to forcefunction? A. enginepressure, causeoflongitudinal vibration, maneuvering flight B. transport vibration, enginepressure, causeoflongitudinal vibration C., enginepressure, causeoflongitudinal vibration D. aerodynamic, causeoflongitudinal vibration, transport vibration",B
+"related toin load design, which item methodpositive correct? A. forceloadandpowerloadcan consider B. each powerloadneedrelative C. reduce tailbuffetingmotion D. large ofaerodynamicloadnot change pointposition",C
+"in make use loadfunctionslower, missilemain need tostructure ofstressnot exceedmaterialofwhich? A. yield limit B. ultimate strength C. D. proportional limit",D
+"missilestructuredesignin, considermaterial and changeshapeof coefficientgenerally? A. large in 1 B. etc. in 1 C. not small in 1 D. small in 1",D
+missilestructureanalysisisrefer towhich? A. missilestructural mechanics characteristic analysisandinternal forcescalculation B. missilestructureoutside force calculationandinternal forcescalculation C. missilestructural mechanics characteristic analysisandin loadlower ofresponse calculation D. missilestructureoutside force calculationandin loadlower ofresponse calculation,C
+the following innot belong tometal materialnormal use ofstrength then ofiswhich? A. most large shear stress then B. etc. effectivenessstress then C. most large stress then D. Hill-Hsaistrength then,D
+determinemissilestructureanalysiscalculationmode ofbasicprinciplesnot includewhich? A. calculationmode shouldpositive correctanti-reflect the structureofactual characteristics B. mode shouldand structure C. mode shouldandcalculation toolandcalculation methodbe compatible with D. mode shouldandanalysis objectivebe compatible with,B
+missilestructure havecharacteristicsandthe followingwhich itemwithout related to? A. load B. mass C. stiffness D. damping,A
+"establishmissilestructureof inmass systemmode when, enginegenerally as mode? A. instiffness B. system C. inmass D. mass",C
+in solutionmissilestructuremode shapeandfrequencywhencan toignoredampingof because of is? A. missilein the structurenot existin damping B. missilestructureselfby innot existin damping C. dampingnot affectstructure should D. dampingto structureofself frequencyandmode shapeofaffectnot large,D
+"the following methodnot positive correctofiswhich? A. in each designsituationlower, missileofbasicnatural frequencyshould loadoffrequency B. not need to bodynatural frequency in powernot stable inside C. body structurenatural frequencyif andcontrol systemfrequency proximity, thencan can control D. missileof deviceshould in basicfrequencyto shouldmode shapeofmode shape relativelylarge ofposition",D
+"""aeroelasticityforce angleshape""of items pointrespectively? A. control force, missile forceandinertial force B. power, control forceandinertial force C. missile force, inertial forceand power D. power, missile forceandcontrol force",C
+the following innot belong toaeroelastic dynamics questionofiswhich? A. control reversal B. flutter C. gust response D. buffeting,A
+missileofmain need topoweris? A. main wingproduceoflift B. engine thrust C. wingproduceofaerodynamic force D. main wingandits otherwingproduceofcontrol forceandmoment,B
+missileofmaneuvering flightmain need to which type? A. main wingproduceoflift B. engine thrust C. wingproduceofaerodynamic force D. main wingandits otherwingproduceofcontrol forceandmoment,D
+beam-type wingofmain need to toward force is? A. skin B. stringer C. spar D. main joint,C
+ordinary ribofbetween generallyas many small? A. 200~250mm B. 250~300mm C. 300~350mm D. 350~400mm,B
+beam structurenormal use in which typeaspect ratioofwingmode? A. large B. small C. inetc.,B
+monoblock wingofshear forceandtorquerespectivelymainly consists of? A. sparofwebandclosedskin B. sparofweband C. longitudinal wallofwebandclosedskin D. longitudinal wallofweband,C
+sandwich-structure wingadoptuse sandwich panel as force main need toas improvehigh which typecapability? A. resistcurvedcapability B. resist capability C. resist capability D. resist capability,C
+"forceof isrefer toforcebystructureof when, forcein whichitems change? A. form B. large small C. direction D. functionspoint",A
+"ribupper offorcemain need to whichstructure? A. sparandauxiliary beam B. sparandskin C. skinandauxiliary beam D. skin, sparandauxiliary beam",D
+reinforced ribnormal use main must bearwhich typeload? A. distributed force B. distributed couple C. concentrated force D. concentrated couple,C
+"sparsectionshape designwhen, shouldmake its havehavemost large ofwhich item? A. cross-sectional area B. C. D. section modulus in bending",D
+curved normal be use which typestressofstringerupper? A. curved B. positive stress C. shear stress D. functionspoint,A
+"the following in, not belong tofuselagemain need tofunctionsofiswhich item? A. producelift B. haveeffectivenessload C. load D. connectionwingandengine",A
+"fuselageofmain need tointernal forcesincludewhich? A. bending moment B. shear forceandbending moment C. axial forceandbending moment D. axial force, shear forceandbending moment",D
+lateral loadin beam structurecompartment sectioninside causeofbending momentandshear forcerespectivelymainly consists ofwhich? A. longeronandframe B. stringerandskin C. longeronandskin D. stringerandframe,C
+"beam structurecompartment sectionin, compartment section towardconcentrated forceoflongeronsectionis shape? A. etc. section B. front front thickrear front thin C. front front thinrear front thick D. inbetween",B
+to insmall generallyadoptuse? A. adoptuse force hatch cover B. in adoptuse reinforced opening frame C. not D. increaselarge skin degree,B
+stringer-type semi-monocoque fuselageofstringerandskinoffailure moderespectivelyis? A. tensile failureandcompressive buckling failure B. compressive bucklingortensile failureandcompressive buckling failure C. compressive buckling failureandshear failure D. compressive bucklingortensile failureandshear failure,D
+"reinforced framein inside towardconcentrated forcewhen, skinprovide ofbalancing shear flow? A. uniform B. linear C. according to a sine law D. according to a parabolic law",C
+"beam structurecompartment sectionin, longeronlengthgenerallyto as? A. concentrated force to fuselageskin forceuniformwhen B. etc. in compartment sectionlength C. etc. in compartment sectionlength semi- D. etc. in compartment sectionlength of",A
+riveted seamof belong towhich typetypes? A. external seam sealing B. internal seam sealing C. hybrid sealing,B
+floating conical-nut connectionbelong towhich typecompartment sectionconnectionform? A. sleeve connection B. flange connection C. threaded connection D. external-clamp-block connection,A
+oblique flange connectionofconnection relativeto in fuselageaxis of anglegenerallyas many small? A. 10°~20° B. 10°~15° C. 15°~25° D. 15°~20°,D
+smooth mating surfaceaisuse controlwhich type? A. bending B. offset C. torsion D. bendingandoffset,B
+actuation mechanismrefer toofismissilecontrol systeminfrom whichto whichof device? A. actuatorto body B. actuatorto control surfacerotation axis C. bodyto control surfacerotation axis D. control surfacerotation axisto body,B
+actuation mechanismofnonlinear transmission relationship? A. large in B. etc. in C. small in D. all can can,C
+actuation mechanismneed to or ofload torquenot includewhich item? A. actuatormoment B. hinge moment C. friction torque D. inertial torque,A
+"the followingrelated toin cold-gas actuation systemofdescribe, which itemnot positive correct? A. pressure B. masslarge C. powersmall D. resistanti-controlcapability",B
+"the followingrelated toin hydraulic actuation systemofdescribe, which itemnot positive correct? A. volumelarge B. temperatureaffect C. powerlarge D. resistanti-controlcapability",A
+"in bleed-gas actuator control systemin, gas distributionmain need to? A. cylinder B. gas generator C. piston D. gas distribution chamber",D
+actuation mechanismbelong towhich typetypes? A. same-direction actuation mechanism B. reverse actuation mechanism C. compound actuation mechanism,A
+in mechanism kinematics simulationwhencan use which type? A. NASTRAN B. A. NSYSY C. MARC D. A. DAMS,D
+each motion of betweenofclearancegenerallynot small in many small? A. 0.5~1mm B. 1~2mm C. 2~3mm D. 3~4mm,C
+"separation mechanismofmain need tofunctionsincludewhich? A. connection, unlocking, and separation B. unlocking and separation C. connection and separation D. separation",A
+"which typeconnection and separation mechanism whenhavehaveconnection stiffnesslarge, reliable connection, good aerodynamic shapeofadvantages? A. latch-hook mechanism B. axial direct-connection mechanism C. external clamping-ring mechanism D. rear-ring separation mechanism",B
+"the followingwhichbelong tolateralseparation mechanism? A. rear-ring separation mechanism, support-type separation mechanism, suspension-type separation mechanism, separation mechanism B. rear-ring separation mechanism, external clamping-ring mechanism, suspension-type separation mechanism, suspension-clamping-ring separation mechanism C. rear-ring separation mechanism, support-type separation mechanism, suspension-type separation mechanism, latch-hook mechanism D. rear-ring separation mechanism, support-type separation mechanism, suspension-type separation mechanism, suspension-clamping-ring separation mechanism",D
+"separation mechanismconnection calculationofmain need to ofismake mating surface whichdesignrequirements? A. connection stiffnessandconnection strength B. connection tightnessandconnection stiffness C. connection tightnessandconnection strength D. connection stiffness, connection tightnessandconnection strength",C
+"materialofmechanical property parametersin, characterizesmaterialstiffnessofquantityis? A. elastic modulus B. proportional limit C. yield limit D. ultimate strength",A
+"in situationlower, specific strengthandspecific stiffnessmaterial selectionandadoptuse material performance indexmaterial selectionrelative? A. B. curved C. torsion D.",A
+"in in crackleading edgeofshear stressfunctionslower, crackbelong towhich typetypes? A. crack B. crack C. crack",C
+"the followingbodynormal use ofmetal materialin, belong to ofis? A. aluminum alloy B. magnesium alloy C. titanium alloy D. alloy steel",D
+"aluminum alloyofmain need tocharacteristicsis? A. specific strengthrelativelyhigh, good manufacturability, haveresist, operationtemperaturehigh B. specific strengthrelativelylow, poor manufacturability, haveresist, operationtemperaturelow C. specific strengthrelativelyhigh, good manufacturability, haveresist, operationtemperaturelow D. specific strengthrelativelylow, poor manufacturability, haveresist, operationtemperaturehigh",C
+missilein the structureof generally use which typematerial? A. aluminum alloy B. magnesium alloy C. titanium alloy D. alloy steel,D
+"carbon/carboncompositematerialofmain need toadvantagesis? A. resistant to, resist, resistant tohigh temperature, strengthhigh, mass B. resistant to, resist, resistant tohigh temperature, strengthhigh, good plasticity C. resistant to, resist, strengthhigh, stiffnesshigh, good plasticity D. resistant to, resist, resistant tohigh temperature, strengthhigh, stiffnesshigh",A
+main need toin ()offunctionslower complete motion. A. force B. force C. aerodynamic force D. gravity,B
+missiledevelopmentof stagesmain need toisin inside carry outof. A. developmentdepartment B. designdepartment C. department D. make use department,D
+missilestructural systemdevelopmentofschemestagesoperation as. A. schemedesign→schemeanalysisandthan relatively→proposescheme and →schemereview B. schemeanalysisandthan relatively→schemedesign→proposescheme and →schemereview C. schemedesign→proposescheme and →schemeanalysisandthan relatively→schemereview D. schemeanalysisandthan relatively→proposescheme and →schemedesign→schemereview,A
+loadlower ofstructure shouldnot include. A. stress B. load C. shouldchange D. acceleration,B
+missile main need to use ofis. A. designandscheme stages B. developmentstages C. stages D. make use and stages,A
+"missile in launch upper when,overloadcoefficientas. A. 0 B. -1 C. 9.8 D. 1",D
+missileloadcalculationof ofisobtainto missilein each designsituationlower of. A. stress B. outside force C. internal forces D. power,C
+missile loadcalculationofbasic as ① most ofdesignsituation;②calculationmissileeach componentupper functionsforceand;③ bodyeach sectionofload(internal forces);④selectloaddesignsituation. A. ①→③→②→④ B. ①→②→③→④ C. ④→②→③→① D. ④→③→②→①,C
+missiletrajectoryofmost large forcepointis. A. in flightlongitudinal overloadmost large point B. in flightnormal overloadmost large point C. most large point D. liftmost large point,A
+missileofengine belong to. A. load B. load C. load D. load,D
+mode shape methodmain need tobenefituse. A. frequencyofhave B. valueof C. mode shapeofpositive D. frequencyandmode shapeofto should,C
+"in the structurenormal use ofsparsectionshape in,relativeto section modulus in bendingmost large ofis. A. shape B. shape C. shape D. T shape",A
+"beam structureoffuselagein, main must bear. A. concentrated force B. concentrated couple C. axialdistributed force D. lateraldistributed force",A
+lateral loadin beam structurecompartment sectioninside causeofbending momentandshear forcerespectivelymainly consists of ________. A. longeronandlongeron B. longeronandskin C. skinandlongeron D. skinandskin,B
+use in fuselageequipmentinstallof ofmain need toadvantagesis. A. quantitysmall B. stiffnesslarge C. quantity D. strengthhigh,B
+external-clamp-block connectionoftorquemain need to ________. A. B. C. position D. between,C
+towardseparation mechanismofadvantagesis. A. connection stiffnesshigh B. aerodynamicdragsmall C. that loadsmall D. convenientin separation,B
